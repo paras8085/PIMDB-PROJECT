@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{graphicx}
+\begin{document}
+
+\title{Introduction to \LaTeX{}}
+\author{The Prof}
+
+\maketitle
+\begin{abstract}
+This is the Document for my Project Information Management Database
+\end{abstract}
+
+\section{Introduction}
+This is the Architectural Blueprint for my PIM DB.
+\subsection{JavaScript Coding Design}
+\subsubsection{JS Objects used in this application}
+\section{Conclusion}
+I REALLY REALLY LOVE LATEX!!!!
+\end{document}
